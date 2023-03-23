@@ -1,0 +1,11 @@
+{
+  "name": "webservice",
+  "version": "1.0.0",
+  "description": "Serverside Movie app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "levi smith",
+  "license": "ISC"
+}
