@@ -2,9 +2,9 @@
 
 ### to Run the application
 
-Run npm install in both webapp and webservice
+Run **npm install** in both webapp and webservice
 
-npm start in both as well.
+Run **npm start** in both as well.
 
 I enjoyed this code challenge I did run into a challenge on eduroam here at byu it blocked the API request.
 
