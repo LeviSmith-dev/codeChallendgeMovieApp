@@ -1,5 +1,7 @@
 # Movie Apllication
 
+## the .env values were sent in a seperate email from the repo url
+
 ### to run the application
 
 Run **npm install** in both webapp and webservice
