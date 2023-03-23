@@ -1,6 +1,6 @@
 # Movie Apllication
 
-### to Run the application
+### to run the application
 
 Run **npm install** in both webapp and webservice
 
